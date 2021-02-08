@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libstub-hjar_e2d563ed">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_icarus/c259d30e18251c8d4a912baf80a07cf7/execroot/__main__/bazel-out/k8-fastbuild/bin/external/io_grpc_grpc_java/stub/libstub-hjar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

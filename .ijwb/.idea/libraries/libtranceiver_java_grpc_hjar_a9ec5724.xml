@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libtranceiver_java_grpc-hjar_a9ec5724">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_icarus/c259d30e18251c8d4a912baf80a07cf7/execroot/__main__/bazel-out/k8-fastbuild/bin/src/proto/libtranceiver_java_grpc-hjar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_icarus/c259d30e18251c8d4a912baf80a07cf7/execroot/__main__/bazel-out/k8-fastbuild/bin/src/proto/libtranceiver_java_grpc-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>
