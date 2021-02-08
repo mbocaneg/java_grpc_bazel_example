@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package transmission_object;
+
+option java_package = "com.test.java.proto";
+
+message TransmissionObject {
+  float value = 1;
+  string message = 2;
+}

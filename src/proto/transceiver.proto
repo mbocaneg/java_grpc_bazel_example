@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package transceiver;
+
+option java_package = "com.test.java.proto";
+
+import "src/proto/transmission_object.proto";
+
+message EchoRequest {
+  transmission_object.TransmissionObject fromClient = 1;
+}
+message EchoResponse {
+  transmission_object.TransmissionObject fromServer = 1;
+}
+
+service Transceiver {
+  rpc Echo(EchoRequest) returns (EchoResponse);
+}
